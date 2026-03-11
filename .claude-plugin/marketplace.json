@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "plugin-electrobun-dev",
+  "description": "Claude Code plugin for Electrobun desktop app development — skills, commands, agents, and hooks for the full development lifecycle",
+  "owner": {
+    "name": "Dexploarer",
+    "url": "https://github.com/Dexploarer"
+  },
+  "plugins": [
+    {
+      "name": "electrobun-dev",
+      "description": "Agentic development companion for Electrobun desktop apps — skills, commands, agents, and hooks for the full development lifecycle",
+      "version": "1.0.0",
+      "author": {
+        "name": "Dexploarer",
+        "url": "https://github.com/Dexploarer"
+      },
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}
