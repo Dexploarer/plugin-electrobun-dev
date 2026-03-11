@@ -112,13 +112,18 @@ What do I want to do?
 
 ## Installation
 
-Clone directly to your plugins folder:
-
 ```bash
-git clone https://github.com/Dexploarer/plugin-electrobun-dev ~/.claude/plugins/electrobun-dev
+claude plugins marketplace add Dexploarer/plugin-electrobun-dev
+claude plugins install electrobun-dev@plugin-electrobun-dev
 ```
 
-Then restart Claude Code. The plugin's skills, commands, and agents will be available immediately.
+Restart Claude Code. The plugin's skills, commands, and agents will be available immediately.
+
+To update later:
+
+```bash
+claude plugins update electrobun-dev@plugin-electrobun-dev
+```
 
 ---
 
