@@ -54,13 +54,18 @@ Choose based on what your app primarily does:
 | `sqlite-crud` | App with a local SQLite database |
 | `photo-booth` | Camera/media capture |
 
+### Browser / Multi-tab
+| Template | Use when |
+|---|---|
+| `multitab-browser` | Multi-tab browser shell with navigation |
+
 ### 3D / Graphics
 | Template | Use when |
 |---|---|
-| `three-physics` | 3D scene with physics (Three.js + Rapier) |
+| `wgpu-threejs` | 3D scene with Three.js on native WebGPU |
 | `wgpu` | Native GPU rendering with Dawn/WebGPU |
 | `wgpu-mlp` | WebGPU neural net inference |
-| `webgpu-babylon` | BabylonJS on WebGPU |
+| `wgpu-babylon` | BabylonJS on WebGPU |
 
 ## What Gets Generated
 
@@ -80,7 +85,7 @@ Every template produces at minimum:
         └── index.css
 ```
 
-GPU templates (`wgpu`, `wgpu-mlp`, `webgpu-babylon`) skip the renderer dirs and use `GpuWindow` directly.
+GPU templates (`wgpu`, `wgpu-mlp`, `wgpu-babylon`, `wgpu-threejs`) skip the renderer dirs and use `GpuWindow` directly.
 
 ## Post-Init Checklist
 

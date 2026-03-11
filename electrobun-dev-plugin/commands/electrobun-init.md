@@ -33,11 +33,14 @@ Scaffold a new Electrobun project.
    - `sqlite-crud` — SQLite database CRUD
    - `photo-booth` — Camera capture and media handling
 
+   **Browser / Multi-tab:**
+   - `multitab-browser` — Multi-tab browser shell with navigation
+
    **3D / Graphics:**
-   - `three-physics` — Three.js 3D scene with Rapier physics
+   - `wgpu-threejs` — Three.js 3D scene on native WebGPU
    - `wgpu` — Native GPU rendering with Dawn/WebGPU (no webview)
    - `wgpu-mlp` — WebGPU neural network inference
-   - `webgpu-babylon` — BabylonJS on WebGPU
+   - `wgpu-babylon` — BabylonJS on WebGPU
 
 3. **Run init:**
    ```bash
@@ -52,7 +55,7 @@ Scaffold a new Electrobun project.
 
 5. **Update config** — Edit `electrobun.config.ts`:
    - Set `app.name`, `app.identifier`, `app.version`
-   - For GPU templates (`wgpu`, `wgpu-mlp`, `webgpu-babylon`): confirm `bundleWGPU: true` per platform
+   - For GPU templates (`wgpu`, `wgpu-mlp`, `wgpu-babylon`, `wgpu-threejs`): confirm `bundleWGPU: true` per platform
    - For CEF templates: confirm `bundleCEF: true` per platform
 
 6. **Verify it runs:**
