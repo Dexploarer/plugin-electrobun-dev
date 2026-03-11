@@ -1,6 +1,6 @@
 ---
-name: Electrobun Platform
-description: Cross-platform specifics for Electrobun apps — platform support matrix, Linux/Windows/macOS behavioral differences, CEF requirements by platform, events API, security patterns, CI release matrix, artifact naming, and common pitfalls. Use when targeting multiple platforms, handling platform-specific bugs, setting up CI, or understanding webview differences.
+name: electrobun-platform
+description: This skill should be used when the user asks about cross-platform electrobun support, "electrobun Linux", "electrobun Windows", CEF requirements by platform, "electrobun platform differences", or is setting up multi-platform CI for an electrobun app.
 version: 1.0.0
 ---
 

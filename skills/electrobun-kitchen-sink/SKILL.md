@@ -1,6 +1,6 @@
 ---
-name: Electrobun Kitchen Sink
-description: Use when working with the Electrobun Kitchen Sink testing app — running tests, understanding the feature manifest, navigating the test runner UI, operating playground windows, or adding new test coverage. Also activates for questions about the defineTest() pattern, AUTO_RUN mode, or the manifest generator/validator scripts.
+name: electrobun-kitchen-sink
+description: This skill should be used when the user asks about the "electrobun kitchen sink", "defineTest", "AUTO_RUN mode", "kitchen sink tests", "electrobun test runner", navigating playground windows, or wants to add new electrobun Kitchen Sink test coverage.
 version: 1.0.0
 ---
 

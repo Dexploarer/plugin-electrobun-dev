@@ -1,6 +1,6 @@
 ---
-name: Electrobun Config
-description: The complete electrobun.config.ts field reference. Use when editing config, looking up a specific option, understanding defaults, or configuring platform-specific behaviour.
+name: electrobun-config
+description: This skill should be used when the user asks about "electrobun.config.ts", "electrobun config", needs the config field reference, wants to understand config defaults, or is configuring platform-specific electrobun behaviour.
 version: 1.0.0
 ---
 

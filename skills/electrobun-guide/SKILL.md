@@ -1,6 +1,6 @@
 ---
-name: Electrobun Plugin Guide
-description: The master index for the electrobun-dev Claude Code plugin. Use when starting a new Electrobun project, unsure which skill or command to use, wanting a full overview of what the plugin provides, or onboarding to the plugin ecosystem. Lists all 15 skills, 13 commands, and 11 agents with when-to-use guidance and decision trees.
+name: electrobun-plugin-guide
+description: This skill should be used when the user is starting a new Electrobun project, is unsure which electrobun skill or command to use, wants an overview of the electrobun-dev plugin, or asks "which electrobun skill", "electrobun plugin guide", "electrobun overview". Lists all skills, commands, and agents with when-to-use guidance.
 version: 1.0.0
 ---
 

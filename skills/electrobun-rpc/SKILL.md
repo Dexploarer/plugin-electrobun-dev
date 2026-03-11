@@ -1,6 +1,6 @@
 ---
-name: Electrobun RPC
-description: Use when working with Electrobun's RPC system — defineElectrobunRPC, Electroview.defineRPC, ElectrobunRPCSchema types, bun-to-renderer and renderer-to-bun communication. Activates automatically when RPC code is present.
+name: electrobun-rpc
+description: This skill should be used when the user asks about "electrobun RPC", "defineElectrobunRPC", "Electroview.defineRPC", "ElectrobunRPCSchema", bun-to-renderer communication, or renderer-to-bun communication. Activates automatically when RPC code is present.
 version: 1.0.0
 ---
 

@@ -1,6 +1,6 @@
 ---
-name: Electrobun Teams
-description: Use when orchestrating multi-agent Electrobun feature development. Explains the electrobun-feature-team architecture — UI agent (views, RPC contract) followed by backend agent (bun-side wiring) — the RPC contract handoff format, and how to run the team using CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1.
+name: electrobun-teams
+description: This skill should be used when the user asks about "electrobun teams", "multi-agent electrobun", "electrobun UI agent", "electrobun backend agent", "RPC contract handoff", or CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS for electrobun feature development.
 version: 1.0.0
 ---
 

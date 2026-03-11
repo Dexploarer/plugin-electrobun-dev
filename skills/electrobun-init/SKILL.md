@@ -1,6 +1,6 @@
 ---
-name: Electrobun Init
-description: Use when scaffolding a new Electrobun project, choosing a template, or understanding what each template provides. Activates on electrobun init, new project setup, or template questions.
+name: electrobun-init
+description: This skill should be used when the user asks to "electrobun init", "scaffold a new electrobun project", "new electrobun app", "electrobun template", or "start electrobun project". Activates on new project setup or template questions.
 version: 1.0.0
 ---
 

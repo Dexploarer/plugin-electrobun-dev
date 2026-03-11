@@ -1,6 +1,6 @@
 ---
-name: Electrobun Dev
-description: Use when running Electrobun in development mode — electrobun dev, --watch flag, hot reload, CEF devtools, debugging the renderer, or understanding the dev build cycle.
+name: electrobun-dev
+description: This skill should be used when the user asks to "run electrobun dev", "electrobun development mode", "electrobun --watch", "hot reload electrobun", "CEF devtools", or is debugging the electrobun renderer or understanding the dev build cycle.
 version: 1.0.0
 ---
 

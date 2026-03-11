@@ -1,6 +1,6 @@
 ---
-name: Electrobun Workflow
-description: The master Electrobun development lifecycle guide. Use for any Electrobun project to understand where you are in the pipeline and what comes next. Links all stages together.
+name: electrobun-workflow
+description: This skill should be used when the user asks about the "electrobun development workflow", "electrobun pipeline", "electrobun lifecycle", "where am I in the electrobun pipeline", or needs guidance on what stage comes next in electrobun development.
 version: 1.0.0
 ---
 

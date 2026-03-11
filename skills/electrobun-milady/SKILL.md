@@ -1,6 +1,6 @@
 ---
-name: Electrobun Milady
-description: Use when building Electrobun features for the milady-ai/milady project, submitting PRs that will be reviewed by milady's agent-review system, or understanding how the electrobun-dev SDLC pipeline integrates with milady's trust scoring, CI/CD, and automated reviewer. Covers trust tiers, code quality standards, PR format requirements, Biome compliance, and the milady release-electrobun.yml workflow.
+name: electrobun-milady
+description: This skill should be used when the user is building electrobun features for the milady-ai/milady project, submitting PRs to milady that will be reviewed by the agent-review system, asks about "electrobun milady", "milady electrobun PR", trust tiers, Biome compliance, or the release-electrobun.yml workflow.
 version: 1.0.0
 ---
 

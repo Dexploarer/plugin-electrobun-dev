@@ -1,6 +1,6 @@
 ---
-name: Electrobun WebGPU
-description: Use when working with WebGPU in Electrobun — GpuWindow, WGPUView, WGSL shaders, KEEPALIVE pattern, render loops, FFI pointer management, and GPU buffer serialization.
+name: electrobun-webgpu
+description: This skill should be used when the user asks about "electrobun WebGPU", "GpuWindow", "WGPUView", "WGSL shaders", "KEEPALIVE pattern", "electrobun GPU", render loops in electrobun, FFI pointer management, or GPU buffer serialization.
 version: 1.0.0
 ---
 

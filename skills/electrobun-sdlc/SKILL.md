@@ -1,6 +1,6 @@
 ---
-name: Electrobun SDLC
-description: Use when building any complete Electrobun feature from idea to documentation. Explains the 8-stage agent pipeline — researcher, architect, planner, dev squad, QA engineer, test writer, alignment agent, docs agent — and how to orchestrate them with or without Claude Code agent teams.
+name: electrobun-sdlc
+description: This skill should be used when the user wants to build a complete electrobun feature end-to-end, asks about the "electrobun SDLC", "electrobun agent pipeline", "8-stage electrobun pipeline", or needs to orchestrate the researcher/architect/planner/dev-squad/QA/test/alignment/docs agents.
 version: 1.0.0
 ---
 

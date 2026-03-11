@@ -1,6 +1,6 @@
 ---
-name: Electrobun Testing
-description: Use when writing Electrobun tests, adding test coverage to the Kitchen Sink, implementing the defineTest() pattern, generating new test suites, understanding what the kitchen sink tests, or reverse-engineering component behaviour from test source. Activates on test authoring, test framework, or test-driven development questions.
+name: electrobun-testing
+description: This skill should be used when the user asks to "write electrobun tests", "add electrobun test coverage", "electrobun testing", "defineTest pattern", generating new electrobun test suites, or reverse-engineering electrobun component behaviour from test source.
 version: 1.0.0
 ---
 

@@ -1,6 +1,6 @@
 ---
-name: Electrobun Build
-description: Use when building an Electrobun app for distribution, setting up code signing, understanding platform-specific build requirements, or diagnosing build failures. Covers dev/canary/stable environments, all three platforms, toolchain prerequisites, artifact output, and CI/CD setup.
+name: electrobun-build
+description: This skill should be used when the user asks to "build electrobun app", "electrobun build", "electrobun canary", "electrobun stable", "set up code signing", "electrobun distribution", or is diagnosing electrobun build failures. Covers dev/canary/stable environments, all three platforms, toolchain prerequisites, artifact output, and CI/CD setup.
 version: 2.0.0
 ---
 

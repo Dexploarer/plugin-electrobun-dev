@@ -1,6 +1,6 @@
 ---
-name: Electrobun Release
-description: Use when distributing Electrobun apps, configuring auto-updates, uploading artifacts, understanding update channels, or integrating the Updater API. Covers artifact naming, update.json format, bsdiff patch generation, upload targets, and the full Updater lifecycle.
+name: electrobun-release
+description: This skill should be used when the user asks to "release electrobun app", "electrobun auto-update", "configure electrobun updater", "electrobun artifacts", "upload electrobun release", "electrobun update channels", or "bsdiff patch generation".
 version: 2.0.0
 ---
 

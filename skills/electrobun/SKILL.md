@@ -1,6 +1,6 @@
 ---
-name: Electrobun Core
-description: Use when working on any Electrobun desktop app — BrowserWindow, BrowserView, events, app lifecycle, ApplicationMenu, Tray, and electrobun.config.ts. Activates automatically when editing Electrobun project files.
+name: electrobun-core
+description: This skill should be used when the user is working on any Electrobun desktop app, asks about "BrowserWindow", "BrowserView", "electrobun events", "app lifecycle", "ApplicationMenu", "Tray", or "electrobun.config.ts". Activates automatically when editing Electrobun project files.
 version: 1.0.0
 ---
 
