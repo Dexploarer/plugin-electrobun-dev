@@ -41,13 +41,13 @@ export default defineConfig({
       bundleWGPU: false,
       bundleCEF: false,
       defaultRenderer: "native", // or "cef"
-      codesign: { identity: "Developer ID Application: ..." },
-      notarize: { teamId: "XXXXXXXXXX" },
-      icon: "assets/icon.icns",
+      codesign: true,
+      notarize: true,
+      icons: "assets/icon.icns",
     },
     win: { bundleWGPU: false, bundleCEF: false, icon: "assets/icon.ico" },
     linux: { bundleWGPU: false, bundleCEF: false },
-    copy: [{ from: "assets/", to: "assets/" }],
+    copy: { "assets/": "assets/" },
   },
   runtime: { exitOnLastWindowClosed: true },
   scripts: {
